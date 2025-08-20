@@ -1,0 +1,11 @@
+{
+    "base64ASCIILogo": "ICBfX19fXyAgICAgICAgICAgICBfICAgICAgICBfX19fXyAgICAgICAgICAgIF8gXyAgICAgICBfX19fICAgICAgICBfICAgCiB8ICBfXyBcICAgICAgICAgICB8IHwgICAgICB8XyAgIF98ICAgICAgICAgIChfKSB8ICAgICB8ICBfIFwgICAgICB8IHwgIAogfCB8ICB8IHwgX19fICBfIF9ffCB8IF9fX19fICB8IHwgIF8gX19fXyAgIF9fX3wgfF8gX19ffCB8XykgfCBfX18gfCB8XyAKIHwgfCAgfCB8LyBfIFx8ICdfX3wgfC8gLyBfX3wgfCB8IHwgJ18gXCBcIC8gLyB8IF9fLyBfIFwgIF8gPCAvIF8gXHwgX198CiB8IHxfX3wgfCAoXykgfCB8ICB8ICAgPFxfXyBcX3wgfF98IHwgfCBcIFYgL3wgfCB8fCAgX18vIHxfKSB8IChfKSB8IHxfIAogfF9fX19fLyBcX19fL3xffCAgfF98XF9cX19fL19fX19ffF98IHxffFxfLyB8X3xcX19cX19ffF9fX18vIFxfX18vIFxfX3wKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+    "loginPrompt": "Введите логин: ",
+    "passwordPrompt": "Введите пароль: ",
+    "invitePrompt": "Введите ссылку на чат: ",
+    "maxUsersPrompt": "Введите максимальное количество пользователей: ",
+    "chatInvitesDisabled": "Один из пользователей отключил приглашения",
+    "invitesSuccess": "Приглашения отправлены. Количество пользователей -",
+    "credits": "Script by @celt_is_god",
+    "inviteFinished": "Инвайты завершены"
+}
